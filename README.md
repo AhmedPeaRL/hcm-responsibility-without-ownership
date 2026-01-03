@@ -1,0 +1,1 @@
+# hcm-responsibility-without-ownership
